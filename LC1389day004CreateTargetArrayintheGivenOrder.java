@@ -13,7 +13,13 @@ import java.util.Arrays;
 /**
  * LC1389CreateTargetArrayintheGivenOrder
  */
-public class LC1389CreateTargetArrayintheGivenOrder {
+/**
+ * 004LC1389CreateTargetArrayintheGivenOrder
+ */
+/**
+ * LC1389day004CreateTargetArrayintheGivenOrder
+ */
+public class LC1389day004CreateTargetArrayintheGivenOrder {
 
     public static void main(String[] args) {
         
