@@ -14,3 +14,6 @@ Day 04 → LC1304- Find N Unique Integers Sum up to zero.
        → LC70  -Climbing Stairs.
 Day 05 → LC2404- Most frequent even element.
        → LC1047- Remove All Adjacent Duplicates in String.
+
+Day 06 → LC342- power of four.
+       → LC1931- maxiumum product difference between two pairs.
