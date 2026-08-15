@@ -14,7 +14,7 @@
  
 import java.util.Scanner;
 
-public class Day6 {
+public class Day006 {
     public static void main(String[] args) {
       
         Scanner sc=new Scanner(System.in);
@@ -31,5 +31,6 @@ public class Day6 {
         n/=4;
     }
     System.out.println((n==1)?true:false);
+    sc.close();
 }
 }
