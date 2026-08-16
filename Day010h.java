@@ -45,6 +45,7 @@ public class Day010h {
 
         while(left<=right){
 
+
             if(arr[right]>arr[left]){
                 nums[k]=arr[right];
                 k--;
