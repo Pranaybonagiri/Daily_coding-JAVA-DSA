@@ -23,11 +23,8 @@ public class Day010 {
         while (k < arr.length && i < arr.length) {
 
             if (arr[k] == 0) {
-
                 arr1[i] = 0;
                 i++;
-
-                // Put the second zero only if space exists
                 if (i < arr.length) {
                     arr1[i] = 0;
                     i++;
