@@ -39,5 +39,6 @@ public class Day011 {
             }
         }
         System.out.println("After Merging Strings Alternatevely: "+sb.toString());
+        sc.close();
     }
 }
