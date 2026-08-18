@@ -29,6 +29,8 @@ public class Day012th {
             }
         }
         System.out.println(false);
+        
+        sc.close();
 
     }
 
