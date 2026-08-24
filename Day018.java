@@ -53,7 +53,9 @@ public class Day018 {
         }
 
         System.out.println(Arrays.toString(new int[]{}));
+     sc.close();
         return;
+
 
     }
 }
